@@ -15,7 +15,7 @@
     
     // Constants
     log('Set constants');
-    var dateFrom = today();
+    var dateFrom = '2022-07-02'();
     var dateTo = '2022-12-24';
     var autoConfirm = true;
 
